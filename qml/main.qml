@@ -154,10 +154,22 @@ ApplicationWindow {
                     text: "German"
                     checkable: true
                     exclusiveGroup: languageSettingsGroup
-                    checked: settings.value("language") == "de_DE" ?  true : false
+                    checked: settings.value("language") === "de_DE" ?  true : false
                     onTriggered: {
-                        if (settings.value("language") != "de_DE") {
+                        if (settings.value("language") !== "de_DE") {
                             settings.setValue("language", "de_DE");
+                            changeLanguageDialog.open();
+                        }
+                    }
+                }
+                MenuItem {
+                    text: "Español"
+                    checkable: true
+                    exclusiveGroup: languageSettingsGroup
+                    checked: settings.value("language") === "es_ES" ? true : false
+                    onTriggered: {
+                        if (settings.value("language") !== "es_ES") {
+                            settings.setValue("language", "es_ES");
                             changeLanguageDialog.open();
                         }
                     }
