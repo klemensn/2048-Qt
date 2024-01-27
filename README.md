@@ -16,6 +16,7 @@ A clone of [2048](https://github.com/gabrielecirulli/2048), implemented in Qt.
   - French (by [Rémi Verschelde](https://github.com/akien-mga))
   - German (by [Jens John](https://github.com/2ion))
   - Polish (by [Michał Radwański](https://github.com/enedil))
+  - Portuguese (by [Antonio Fernando Santos](https://github.com/Ladeia))
   - Russian (by [Sergey Basalaev](https://github.com/SBasalaev))
   - Simplified Chinese
   - Spanish (by [Benjamin Brown](https://github.com/9define))
