@@ -42,12 +42,12 @@
     <message>
         <location filename="../qml/main.qml" line="54"/>
         <source>Degree</source>
-        <translation>Stopień</translation>
+        <translation>Stopnie</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="66"/>
         <source>Military Rank</source>
-        <translation>Ranga wojskowa</translation>
+        <translation>Rangi wojskowe</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="78"/>
@@ -104,12 +104,12 @@
     <message>
         <location filename="../qml/main.qml" line="257"/>
         <source>Join the numbers and get to the &lt;b&gt;2048 tile&lt;/b&gt;!</source>
-        <translation>Łącz liczby i dotrzyj do &lt;b&gt;kafelka 2048&lt;/b&gt;!</translation>
+        <translation>Łącz liczby i dotrzyj do &lt;b&gt;kafelki 2048&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="314"/>
         <source>Language Setting Hint</source>
-        <translation>Wskazówka odnośnie ustawiania języka</translation>
+        <translation>Wskazówka ustawień językowych</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="315"/>
@@ -124,7 +124,7 @@
     <message>
         <location filename="../qml/main.qml" line="328"/>
         <source>Game Over</source>
-        <translation>Игра окончена</translation>
+        <translation>Gra skończona</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="329"/>
