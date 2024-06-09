@@ -490,7 +490,7 @@ function clearCurrentCellValuesSetting() {
 
 function saveSettings() {
     if (isDead()) {
-        clearCurrentCellsSetting();
+        clearCurrentCellValuesSetting();
     } else {
         console.log("Saving cell values...");
         var cells = [];
